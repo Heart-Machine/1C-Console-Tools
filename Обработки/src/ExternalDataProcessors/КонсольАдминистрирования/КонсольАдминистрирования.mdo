@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="88250a63-51b9-4f67-ae48-1484605b055d">
+  <producedTypes>
+    <objectType typeId="f890ce39-2fc3-4f59-9f9b-9d2f065975ce" valueTypeId="4218bcc7-2e54-4a9c-822e-d7a5387786e6"/>
+  </producedTypes>
+  <name>КонсольАдминистрирования</name>
+  <synonym>
+    <key>ru</key>
+    <value>Консоль администрирования</value>
+  </synonym>
+  <comment>v 1.4.1</comment>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="ad146033-32e4-452c-8dd0-f448d842de36"/>
+  <defaultForm>ExternalDataProcessor.КонсольАдминистрирования.Form.КонсольАдминистрирования</defaultForm>
+  <forms uuid="880dda13-6399-409f-9be5-a6d91c893fd8">
+    <name>Дополнение_сс_РегистрацияСтатусов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Дополнение сс регистрация статусов</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="da1f529c-0c61-4719-a186-d4d467b83843">
+    <name>ЗаполнитьАдресаПоПредставлению</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заполнить адреса по представлению</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="4698a2fc-02af-408f-84e4-113d2df49ffa">
+    <name>Изменение_сс_РегистрацииСтатусов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Изменение регистрации статусов</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="cc9e42e3-eb90-4295-b561-7ad2ff920d9e">
+    <name>ИзменениеРеализацииПеревозкиАвтотранспортом</name>
+    <synonym>
+      <key>ru</key>
+      <value>Изменение перевозки автотранспортом в реализации</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="393f3e33-eecc-4a7b-b2ea-9254509ca7b3">
+    <name>ИзменитьЗапись_сс_РегистрацииСтатусов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Изменить запись сс регистрации статусов</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="555947e2-1896-4d6d-9d1d-a614dbffa269">
+    <name>ИнформацияОБазе</name>
+    <synonym>
+      <key>ru</key>
+      <value>Информация о базе</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="bed8b430-03ca-4641-9abd-e0b45ffefe71">
+    <name>ИнформацияОСоздателе</name>
+    <synonym>
+      <key>ru</key>
+      <value>О программе...</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="dba89b78-cd9e-400c-b486-6bd51034e797">
+    <name>ИсправлениеКонтактнойИнформации</name>
+    <synonym>
+      <key>ru</key>
+      <value>Исправление контактной информации</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="88fefbda-b880-4fc8-bbab-d5fcaee34b16">
+    <name>ИсправлениеФИОКонтактныхЛиц</name>
+    <synonym>
+      <key>ru</key>
+      <value>Исправление ФИО контактных лиц</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="d175eff3-6e63-465f-b5da-5a24a84ae9aa">
+    <name>КонсольАдминистрирования</name>
+    <synonym>
+      <key>ru</key>
+      <value>Консоль администрирования</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="efa3d4c3-bf54-438f-b7ba-b80a1b21ba8d">
+    <name>КонсольЗапросов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Консоль запросов</value>
+    </synonym>
+    <includeHelpInContents>true</includeHelpInContents>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="6021bed8-c431-4961-a17a-20ef8f8540b2">
+    <name>Копирование_сс_РегистрацияСтатусов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Копирование регистрации статусов</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="423ce4d7-8002-4e2b-a0d6-e0c6ed16bcdd">
+    <name>ОбновлениеДанныхИКлассификаторов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Обновление данных и классификаторов</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="f05618cc-de67-4d2b-a8e1-1f04dece1ba2">
+    <name>ОткрытьБазуПодДругимПользователем</name>
+    <synonym>
+      <key>ru</key>
+      <value>Открыть базу под другим пользователем</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="a1b87230-66c9-4aef-8f76-a3aad257bb0e">
+    <name>РегистрацияВнешнихКомпонент</name>
+    <synonym>
+      <key>ru</key>
+      <value>Регистрация внешних компонент</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="161891f9-e6ed-494c-80d3-5de281623fb6">
+    <name>СклонениеСлов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Склонение слов</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="fa3e2522-ec72-48ad-8f04-5c48b12cc80f">
+    <name>СписокБаз1С</name>
+    <synonym>
+      <key>ru</key>
+      <value>Список баз 1С</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="ef5ef7a0-8c72-4e63-bd00-811e332422e7">
+    <name>УправлениеСпискомПользователей</name>
+    <synonym>
+      <key>ru</key>
+      <value>Управление списком пользователей</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="c0198e0a-3b11-43b4-b035-33e45d341178">
+    <name>УчетныеЗаписиЭлектроннойПочты</name>
+    <synonym>
+      <key>ru</key>
+      <value>Учетные записи электронной почты</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
