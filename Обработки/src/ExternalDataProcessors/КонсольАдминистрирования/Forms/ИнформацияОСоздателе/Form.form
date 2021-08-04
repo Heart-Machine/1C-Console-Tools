@@ -213,6 +213,7 @@
       <common>true</common>
     </userVisible>
     <groupHorizontalAlign>Center</groupHorizontalAlign>
+    <groupVerticalAlign>Center</groupVerticalAlign>
     <extendedTooltip>
       <name>ГруппаОписаниеРасширеннаяПодсказка</name>
       <id>8</id>
@@ -232,12 +233,14 @@
     <extInfo xsi:type="form:UsualGroupExtInfo">
       <group>Vertical</group>
       <horizontalAlign>Center</horizontalAlign>
+      <verticalAlign>Center</verticalAlign>
       <showLeftMargin>true</showLeftMargin>
       <united>true</united>
       <throughAlign>Auto</throughAlign>
       <currentRowUse>Auto</currentRowUse>
     </extInfo>
   </items>
+  <commandBarLocation>None</commandBarLocation>
   <autoCommandBar>
     <name>ФормаКоманднаяПанель</name>
     <id>-1</id>
@@ -258,15 +261,17 @@
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <horizontalAlign>Center</horizontalAlign>
+  <verticalAlign>Center</verticalAlign>
   <autoFillCheck>true</autoFillCheck>
   <enabled>true</enabled>
   <scalingMode>Normal</scalingMode>
+  <conversationsRepresentation>DontShow</conversationsRepresentation>
   <collapseItemsByImportanceVariant>DontUse</collapseItemsByImportanceVariant>
   <attributes>
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.КонсольАдминистрирования</types>
+      <types>ExternalDataProcessor.КонсольАдминистрирования</types>
     </valueType>
     <view>
       <common>true</common>

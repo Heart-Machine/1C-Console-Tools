@@ -254,7 +254,7 @@
       </userVisible>
       <dataPath xsi:type="form:MultiLanguageDataPath">
         <paths xsi:type="form:DataPath">
-          <segments>ИменительныйПадеж</segments>
+          <segments>Именительный</segments>
         </paths>
       </dataPath>
       <extendedTooltip>
@@ -312,7 +312,7 @@
       </userVisible>
       <dataPath xsi:type="form:MultiLanguageDataPath">
         <paths xsi:type="form:DataPath">
-          <segments>РодительныйПадеж</segments>
+          <segments>Родительный</segments>
         </paths>
       </dataPath>
       <extendedTooltip>
@@ -369,7 +369,7 @@
       </userVisible>
       <dataPath xsi:type="form:MultiLanguageDataPath">
         <paths xsi:type="form:DataPath">
-          <segments>ДательныйПадеж</segments>
+          <segments>Дательный</segments>
         </paths>
       </dataPath>
       <extendedTooltip>
@@ -426,7 +426,7 @@
       </userVisible>
       <dataPath xsi:type="form:MultiLanguageDataPath">
         <paths xsi:type="form:DataPath">
-          <segments>ВинительныйПадеж</segments>
+          <segments>Винительный</segments>
         </paths>
       </dataPath>
       <extendedTooltip>
@@ -483,7 +483,7 @@
       </userVisible>
       <dataPath xsi:type="form:MultiLanguageDataPath">
         <paths xsi:type="form:DataPath">
-          <segments>ТворительныйПадеж</segments>
+          <segments>Творительный</segments>
         </paths>
       </dataPath>
       <extendedTooltip>
@@ -540,7 +540,7 @@
       </userVisible>
       <dataPath xsi:type="form:MultiLanguageDataPath">
         <paths xsi:type="form:DataPath">
-          <segments>ПредложныйПадеж</segments>
+          <segments>Предложный</segments>
         </paths>
       </dataPath>
       <extendedTooltip>
@@ -1011,10 +1011,10 @@
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
   <attributes>
-    <name>ИменительныйПадеж</name>
+    <name>Именительный</name>
     <title>
       <key>ru</key>
-      <value>Именительный падеж</value>
+      <value>Именительный</value>
     </title>
     <id>1</id>
     <valueType>
@@ -1030,10 +1030,10 @@
     <savedData>true</savedData>
   </attributes>
   <attributes>
-    <name>РодительныйПадеж</name>
+    <name>Родительный</name>
     <title>
       <key>ru</key>
-      <value>Родительный падеж</value>
+      <value>Родительный</value>
     </title>
     <id>2</id>
     <valueType>
@@ -1049,10 +1049,10 @@
     <savedData>true</savedData>
   </attributes>
   <attributes>
-    <name>ДательныйПадеж</name>
+    <name>Дательный</name>
     <title>
       <key>ru</key>
-      <value>Дательный падеж</value>
+      <value>Дательный</value>
     </title>
     <id>3</id>
     <valueType>
@@ -1068,10 +1068,10 @@
     <savedData>true</savedData>
   </attributes>
   <attributes>
-    <name>ВинительныйПадеж</name>
+    <name>Винительный</name>
     <title>
       <key>ru</key>
-      <value>Винительный падеж</value>
+      <value>Винительный</value>
     </title>
     <id>4</id>
     <valueType>
@@ -1087,10 +1087,10 @@
     <savedData>true</savedData>
   </attributes>
   <attributes>
-    <name>ТворительныйПадеж</name>
+    <name>Творительный</name>
     <title>
       <key>ru</key>
-      <value>Творительный падеж</value>
+      <value>Творительный</value>
     </title>
     <id>5</id>
     <valueType>
@@ -1106,10 +1106,10 @@
     <savedData>true</savedData>
   </attributes>
   <attributes>
-    <name>ПредложныйПадеж</name>
+    <name>Предложный</name>
     <title>
       <key>ru</key>
-      <value>Предложный падеж</value>
+      <value>Предложный</value>
     </title>
     <id>6</id>
     <valueType>
@@ -1188,6 +1188,7 @@
     <edit>
       <common>true</common>
     </edit>
+    <fillChecking>ShowError</fillChecking>
   </attributes>
   <attributes>
     <name>ИзмененоПредставление</name>
