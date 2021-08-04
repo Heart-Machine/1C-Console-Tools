@@ -11,15 +11,6 @@
   <comment>v 1.4.1</comment>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="ad146033-32e4-452c-8dd0-f448d842de36"/>
   <defaultForm>ExternalDataProcessor.КонсольАдминистрирования.Form.КонсольАдминистрирования</defaultForm>
-  <forms uuid="880dda13-6399-409f-9be5-a6d91c893fd8">
-    <name>Дополнение_сс_РегистрацияСтатусов</name>
-    <synonym>
-      <key>ru</key>
-      <value>Дополнение сс регистрация статусов</value>
-    </synonym>
-    <usePurposes>PersonalComputer</usePurposes>
-    <usePurposes>MobileDevice</usePurposes>
-  </forms>
   <forms uuid="da1f529c-0c61-4719-a186-d4d467b83843">
     <name>ЗаполнитьАдресаПоПредставлению</name>
     <synonym>
@@ -29,29 +20,11 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <forms uuid="4698a2fc-02af-408f-84e4-113d2df49ffa">
-    <name>Изменение_сс_РегистрацииСтатусов</name>
-    <synonym>
-      <key>ru</key>
-      <value>Изменение регистрации статусов</value>
-    </synonym>
-    <usePurposes>PersonalComputer</usePurposes>
-    <usePurposes>MobileDevice</usePurposes>
-  </forms>
   <forms uuid="cc9e42e3-eb90-4295-b561-7ad2ff920d9e">
     <name>ИзменениеРеализацииПеревозкиАвтотранспортом</name>
     <synonym>
       <key>ru</key>
       <value>Изменение перевозки автотранспортом в реализации</value>
-    </synonym>
-    <usePurposes>PersonalComputer</usePurposes>
-    <usePurposes>MobileDevice</usePurposes>
-  </forms>
-  <forms uuid="393f3e33-eecc-4a7b-b2ea-9254509ca7b3">
-    <name>ИзменитьЗапись_сс_РегистрацииСтатусов</name>
-    <synonym>
-      <key>ru</key>
-      <value>Изменить запись сс регистрации статусов</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
@@ -113,15 +86,6 @@
       <value>Консоль запросов</value>
     </synonym>
     <includeHelpInContents>true</includeHelpInContents>
-    <usePurposes>PersonalComputer</usePurposes>
-    <usePurposes>MobileDevice</usePurposes>
-  </forms>
-  <forms uuid="6021bed8-c431-4961-a17a-20ef8f8540b2">
-    <name>Копирование_сс_РегистрацияСтатусов</name>
-    <synonym>
-      <key>ru</key>
-      <value>Копирование регистрации статусов</value>
-    </synonym>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>

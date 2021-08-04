@@ -409,10 +409,6 @@
                   <name>СписокЗапросовВыбор</name>
                 </handlers>
                 <handlers>
-                  <event>OnActivateRow</event>
-                  <name>СписокЗапросовПриАктивизацииСтроки</name>
-                </handlers>
-                <handlers>
                   <event>AfterDeleteRow</event>
                   <name>СписокЗапросовПослеУдаления</name>
                 </handlers>
@@ -2587,10 +2583,6 @@
                       <segments>СписокПараметров.ИмяПараметра</segments>
                     </paths>
                   </dataPath>
-                  <handlers>
-                    <event>OnChange</event>
-                    <name>СписокПараметровИмяПараметраПриИзменении</name>
-                  </handlers>
                   <extendedTooltip>
                     <name>СписокПараметровИмяПараметраРасширеннаяПодсказка</name>
                     <id>527</id>
@@ -3357,10 +3349,6 @@
           </extendedTooltip>
           <type>Pages</type>
           <extInfo xsi:type="form:PagesGroupExtInfo">
-            <handlers>
-              <event>OnCurrentPageChange</event>
-              <name>ГрЗапросыМетаданныеПараметрыПриСменеСтраницы</name>
-            </handlers>
             <pagesRepresentation>TabsOnTop</pagesRepresentation>
             <currentRowUse>Auto</currentRowUse>
           </extInfo>
@@ -4347,7 +4335,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.КонсольАдминистрирования</types>
+      <types>ExternalDataProcessor.КонсольАдминистрирования</types>
     </valueType>
     <view>
       <common>true</common>

@@ -2911,10 +2911,6 @@
     <horizontalAlign>Left</horizontalAlign>
   </autoCommandBar>
   <handlers>
-    <event>OnOpen</event>
-    <name>ПриОткрытии</name>
-  </handlers>
-  <handlers>
     <event>OnCreateAtServer</event>
     <name>ПриСозданииНаСервере</name>
   </handlers>
@@ -2931,7 +2927,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.КонсольАдминистрирования</types>
+      <types>ExternalDataProcessor.КонсольАдминистрирования</types>
     </valueType>
     <view>
       <common>true</common>
