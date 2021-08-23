@@ -8,7 +8,7 @@
     <key>ru</key>
     <value>Консоль администрирования</value>
   </synonym>
-  <comment>v 1.5.0</comment>
+  <comment>v 1.6.0</comment>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="ad146033-32e4-452c-8dd0-f448d842de36"/>
   <defaultForm>ExternalDataProcessor.КонсольАдминистрирования.Form.КонсольАдминистрирования</defaultForm>
   <forms uuid="da1f529c-0c61-4719-a186-d4d467b83843">
@@ -135,6 +135,15 @@
     <synonym>
       <key>ru</key>
       <value>Список баз 1С</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="98de9bb7-0812-4983-913a-beaf6eee587c">
+    <name>УправлениеБезопаснымХранилищем</name>
+    <synonym>
+      <key>ru</key>
+      <value>Управление безопасным хранилищем</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
